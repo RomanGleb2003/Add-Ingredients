@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Add-Ingredients/static/css/main.cc68857c.css",
+    "main.js": "/Add-Ingredients/static/js/main.b96d718d.js",
+    "index.html": "/Add-Ingredients/index.html",
+    "main.cc68857c.css.map": "/Add-Ingredients/static/css/main.cc68857c.css.map",
+    "main.b96d718d.js.map": "/Add-Ingredients/static/js/main.b96d718d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc68857c.css",
+    "static/js/main.b96d718d.js"
+  ]
+}
